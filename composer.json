@@ -1,0 +1,16 @@
+{
+    "name": "flashwalker/php_vite_boilerplate",
+    "description": "Just a simple boilerplate",
+    "autoload": {
+      "files": [
+            "includes/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Agbortoko",
+            "email": "arreyagbortoko@gmail.com"
+        }
+    ],
+    "require": {}
+}
