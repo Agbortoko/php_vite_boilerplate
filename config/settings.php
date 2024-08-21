@@ -16,6 +16,7 @@ if(!function_exists("getConfig")){
             $settings = mysqli_fetch_all($result);
 
             $siteConfig = [
+                'app_mode' => "development",
                 'base_url' => "",     
                 'base_path' => dirname(__DIR__, 1)
             ];
